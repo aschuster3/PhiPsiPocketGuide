@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Phi Psi Pocket Guide</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="creed">I believe Phi Kappa Psi is a brotherhood of honorable men, courteous and cultured, who pledge throughout their lives to generous, compassionate, and loyal comrades;\n\nI believe that I am honor bound to strive manfully for intellectual, moral, and spiritual excellence; to help and forgive my Brothers; to discharge all just debts; to give aide and sympathy to all who are less fortunate;\n\nI believe that I am honor bound to strengthen my character and deepen my integrity; to counsel and guide my Brothers who stray from their obligations; to respect and emulate my Brothers who practice moderation in their manners and morals; to be ever mindful that loyalty to fraternity should not weaken loyalty to my college, but rather increase devotions to it, to my country, and to my God;\n\nI believe that to all I meet, wherever I go, I represent not only Phi Kappa Psi, but indeed the spirit of all fraternities; thus I must ever conduct myself so as to bring respect and honor not to myself alone, but also my Fraternity;\n\nTo the fulfillment of these beliefs, of these ideals, in the noble perfection of Phi Kappa Psi, I pledge my life and my sacred honor.</string>
+    <string name="title_activity_creed">The Creed</string>
+    <string name="amici">Our strong bands shall ne\'er be broken, formed in ole\' Phi Psi, far surpassing wealth unspoken, sealed by friendship\'s tie.\n\nAmici usque ad aras deep graven on each heart, shall be found unwav\'ring true when we from life shall part.\n\nCollege life at best is passing, gliding swiftly by; Then let us pledge, in word and action, love for old Phi Psi.\n\nAmici usque ad aras deep graven on each heart, shall be found unwav\'ring true when we from life shall part.\n\nWhen we sing our life\'s last measure, sweetest then shall be, strains recalling ev\'ry treasure, of fraternity.\n\nAmici usque ad aras deep graven on each heart, shall be found unwav\'ring true when we from life shall part.</string>
+    <string name="title_activity_songs">SongsActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="songs">
+        <item>The Creed</item>
+        <item>Amici</item>
+        <item>Noble Fraternity</item>
+    </string-array>
+
+    <string name="noble_fraternity">Noble Fraternity, Phi Kappa Psi, Thy loyal sons would lift thy banner on high; Brave may we ever be, in all life\'s fiercest battles, bearing the glorious shield of Phi Kappa Psi!\n\nSweet bond of unity, Phi Kappa Psi, Thy cherished memory in us ne\'er shall die; Joy of our college days, we\'ll never tire of giving three cheers and High! High! High! for Phi Kappa Psi!</string>
+    <string name="title_activity_badge_and_symbols">Badge and Symbols</string>
+    <string name="coat_of_arms">The Phi Kappa Psi Coat of Arms</string>
+
+    <string-array name="pictures">
+        <item>Coat of Arms</item>
+        <item>Brother Badge</item>
+        <item>Phi Psi Flag</item>
+    </string-array>
+
+    <string name="title_activity_history">HistoryActivity</string>
+    <string name="title_activity_history_display">HistoryDisplayActivity</string>
+    <string name="image_content_description">Image corresponds to relevant info.</string>
+
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.gtphipsi.phipsipocketguide"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="org.gtphipsi.phipsipocketguide.SelectionScreenActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="org.gtphipsi.phipsipocketguide.CreedActivity"
+            android:label="@string/title_activity_creed" >
+        </activity>
+        <activity
+            android:name="org.gtphipsi.phipsipocketguide.SongsActivity"
+            android:label="@string/title_activity_songs" >
+        </activity>
+        <activity
+            android:name="org.gtphipsi.phipsipocketguide.BadgeAndSymbolsActivity"
+            android:label="@string/title_activity_badge_and_symbols" >
+        </activity>
+        <activity
+            android:name="org.gtphipsi.phipsipocketguide.HistoryActivity"
+            android:label="@string/title_activity_history" >
+        </activity>
+        <activity
+            android:name="org.gtphipsi.phipsipocketguide.HistoryDisplayActivity"
+            android:label="@string/title_activity_history_display" >
+        </activity>
+    </application>
+
+</manifest>
